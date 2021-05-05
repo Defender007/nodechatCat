@@ -1,0 +1,17 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "trying out chat app development in Nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "10.23.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
